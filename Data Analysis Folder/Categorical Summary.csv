@@ -1,0 +1,5 @@
+,Timestamp,Gender,Age,"On a weekly basis, how often do you watch video game live streams?",What live streaming platforms do you usually watch video game live streams on? Please check all that apply.,Who would you say is your favorite video game live streamer? You may list more than one.,Platforms,Streamers
+count,52,52,52,52,52,52,52,52
+unique,52,2,4,4,21,46,21,46
+top,3/6/2024 19:41,Male,18 to 24,More than three times a week,Bola.TV,Renniyyya Gaming,['Bola.TV'],['Renniyyya Gaming']
+freq,1,34,21,30,10,4,10,4
