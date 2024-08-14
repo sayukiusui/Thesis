@@ -1,0 +1,8 @@
+Hypothesis,W-Statistic,P-value,Effect Size,Hypothesized Median,Actual Median,Rescaled Lower CI,Rescaled Upper CI
+PSR,406.5,0.0382,-0.3568,4,4.3889,2.5184,4.5769
+PSI,599.5,0.8964,-0.113,4,4.1667,2.3714,3.6947
+Wishful Identification,488.5,0.5646,-0.2532,4,4.0,1.9303,3.9888
+Loneliness,338.0,0.0265,-0.4433,3,3.1875,2.8125,3.6947
+Addiction,529.0,0.4056,-0.2021,3,2.8125,1.5995,3.2536
+Sense of Community,378.5,0.0076,-0.3921,4,3.5,1.9303,3.9888
+Celebrity Credibility,251.5,0.0002,-0.5525,4,4.5769,3.0839,4.4412
