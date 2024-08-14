@@ -1,0 +1,65 @@
+Column1,count,unique,top,freq
+Timestamp,52,52,3/6/2024 19:41,1
+Gender,52,2,Male,34
+Age,52,4,18 to 24,21
+"On a weekly basis, how often do you watch video game live streams?",52,4,More than three times a week,30
+What live streaming platforms do you usually watch video game live streams on? Please check all that apply.,52,21,Bola.TV,10
+Who would you say is your favorite video game live streamer? You may list more than one.,52,46,Renniyyya Gaming,4
+"While watching my favorite live streamer, I had the feeling that the streamer I'm watching... [Was aware of me.]",52,5,Strongly Agree,21
+"While watching my favorite live streamer, I had the feeling that the streamer I'm watching... [Knew I was there.]",52,5,Strongly Agree,19
+"While watching my favorite live streamer, I had the feeling that the streamer I'm watching... [Knew I was aware of them.]",52,5,Strongly Agree,23
+"While watching my favorite live streamer, I had the feeling that the streamer I'm watching... [Knew I paid attention to them.]",52,5,Strongly Agree,22
+"While watching my favorite live streamer, I had the feeling that the streamer I'm watching... [Knew that I reacted to them.]",52,5,Strongly Agree,23
+"While watching my favorite live streamer, I had the feeling that the streamer I'm watching... [Reacted to what I said or did.]",52,5,Strongly Agree,21
+"[My favorite streamer makes me feel comfortable, as if I am with a friend.]",52,5,Strongly Agree,31
+"[I see my favorite streamer as a natural, down-to-earth person.]",52,5,Strongly Agree,34
+[I look forward to watching my favorite streamer the next time they stream.],52,4,Strongly Agree,28
+"[If my favorite live streamer appeared on another streamer's live stream, I would also watch that live stream.]",52,5,Strongly Agree,30
+[My favorite streamer seems to understand the kind of things I want to know.],52,4,Strongly Agree,24
+"[If I saw a story or article about my favorite streamer online, I would read it.]",52,5,Strongly Agree,27
+[I miss seeing my favorite streamer when he or she is ill or on a vacation.],52,5,Strongly Agree,23
+[I would like to meet my favorite streamer in person.],52,5,Strongly Agree,35
+[I feel sorry for my favorite streamer when he or she makes a mistake.],52,5,Strongly Agree,25
+[I'd like to do the things my favorite streamer does while streaming.],52,5,Strongly Agree,21
+[My favorite streamer is the sort of person I want to be like myself.],52,5,Strongly Agree,19
+[I wish I could be more like my favorite streamer.],52,5,Strongly Agree,22
+"[Whenever I have time, I log on to my live stream platform account.]",52,5,Strongly Agree,24
+"[Frequently, I regret I consume too much time watching live streams.]",52,5,Neither Agree nor Disagree,13
+"[If I could not watch live streams, I would be depressed.]",52,5,Strongly Disagree,16
+[I have difficulties in focusing on my study or work due to watching live streams.],52,5,Strongly Disagree,21
+[I lose sleep over spending more time watching live streams.],52,5,Strongly Disagree,15
+[Watching live streams interferes with doing social activities.],52,5,Slightly Disagree,13
+[I feel anxious if I cannot watch live streams.],52,5,Strongly Disagree,18
+[I have attempted to spend less time watching live streams but have not succeeded.],52,5,Neither Agree nor Disagree,21
+[I get important needs of mine met because I am a part of my favorite streamer's fanbase.],52,5,Neither Agree nor Disagree,19
+[My favorite streamer's fanbase and I value the same things.],52,5,Slightly Agree,20
+[Being a member of my favorite streamer's fanbase makes me feel good.],52,5,Strongly Agree,20
+"[When I have a problem, I can talk about it with members of my favorite streamer's fanbase.]",52,5,Neither Agree nor Disagree,13
+"[People in the fanbase have similar needs, priorities, and goals.]",52,5,Neither Agree nor Disagree,19
+[I can trust people in this community.],52,5,Neither Agree nor Disagree,20
+[I put a lot of time and effort into being part of my favorite streamer's fanbase.],52,5,Strongly Agree,17
+[Being a member of my favorite streamer's fanbase is a part of my identity.],52,5,Neither Agree nor Disagree,17
+[Fitting into my favorite streamer's fanbase is important to me.],52,5,Strongly Agree,16
+[It is very important for me to be a part of my favorite streamer's fanbase.],52,5,Neither Agree nor Disagree,16
+[I expect to be a part of my favorite streamer's fanbase for a long time.],52,5,Strongly Agree,16
+[I feel in tune with my favorite streamer's fanbase while watching my favorite streamer.],52,5,Slightly Agree,17
+[I do not feel alone while watching my favorite streamer.],52,5,Strongly Agree,21
+[I feel part of a group of friends while watching my favorite streamer.],52,4,Strongly Agree,23
+[My interests and ideas are not shared by those in my favorite streamer's fanbase.],52,5,Neither Agree nor Disagree,24
+[There are people in my favorite streamer's fanbase I feel close to.],52,5,Neither Agree nor Disagree,15
+[I feel left out while watching my favorite streamer.],52,5,Strongly Disagree,15
+[I feel isolated from others in my favorite streamer's fanbase.],52,5,Strongly Disagree,15
+[I am unhappy being so withdrawn from others in my favorite streamer's fanbase.],52,5,Strongly Disagree,21
+[Attractive],52,5,Strongly Agree,31
+[Classy],52,5,Strongly Agree,29
+[Handsome/Beautiful],52,5,Strongly Agree,28
+[Sexy],52,5,Strongly Agree,24
+[Dependable],52,5,Strongly Agree,29
+[Honest],52,5,Strongly Agree,37
+[Reliable],52,5,Strongly Agree,34
+[Sincere],52,5,Strongly Agree,32
+[Trustworthy],52,5,Strongly Agree,35
+[Expert],52,5,Strongly Agree,33
+[Experienced],52,5,Strongly Agree,36
+[Knowledgeable],52,4,Strongly Agree,37
+[Skilled],52,5,Strongly Agree,37
